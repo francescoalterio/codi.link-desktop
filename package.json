@@ -1,0 +1,21 @@
+{
+  "name": "CodiLink",
+  "version": "1.0.0",
+  "description": "",
+  "icon": "./assets/favicon.ico",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.3.0",
+    "electron-builder": "^24.6.4"
+  },
+  "build": {
+    "icon": "./assets/favicon.ico"
+  }
+}
