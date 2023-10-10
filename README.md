@@ -7,13 +7,13 @@ Página del proyecto [https://codi.link/](https://codi.link/)
 
 ## Sobre este proyecto
 
-Codi.Link Desktop esta creado utilizando electron y sin más utiliza la web de Codi.Link
+Codi.Link Desktop está creado utilizando electron y sin más utiliza la web de Codi.Link
 
-## Instalacion
+## Instalación
 
-Versión de windows 64 Bits [https://drive.google.com/file/d/13MA-gz2y1ecY5D2ajvLdAizuqgsdeG3U/view?usp=drive_link](https://drive.google.com/file/d/13MA-gz2y1ecY5D2ajvLdAizuqgsdeG3U/view?usp=drive_link)
+Versión de Windows 64 Bits [https://drive.google.com/file/d/13MA-gz2y1ecY5D2ajvLdAizuqgsdeG3U/view?usp=drive_link](https://drive.google.com/file/d/13MA-gz2y1ecY5D2ajvLdAizuqgsdeG3U/view?usp=drive_link)
 
-Esta versión esta creada para mi uso personal, pero en este repo esta todo el código para que cualquiera tambien pueda usarla, tan solo deben instalar las dependencias y utilizar el comando de construcción.
+Esta versión está creada para mi uso personal, pero en este repo está todo el código para que cualquiera también pueda usarla, tan solo deben instalar las dependencias y utilizar el comando de construcción.
 
 ```
 npm install
@@ -22,4 +22,4 @@ npm run build
 
 ## Copiar URL
 
-Al ser una app de escrtorio no es posible comodamente copiar la URL de la web. Por este motivo tenemos el comando Alt + C que copia automaticamente la URL en el portapapeles.
+Al ser una app de escritorio no es posible cómodamente copiar la URL de la web. Por este motivo tenemos el comando Alt + C que copia automáticamente la URL en el portapapeles.
